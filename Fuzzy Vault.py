@@ -1,4 +1,4 @@
-#Fuzzy Vault Encryption
+#Fuzzy Vault Biometric Encryption
 
 import numpy as np
 from random import randint
